@@ -3,7 +3,7 @@
     section#login {
         width: 85vw;
         max-width: 650px;
-        height: 280px;
+        height: 300px;
     }
     section#login > div#imagem {
         float: left;
