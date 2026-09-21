@@ -1,9 +1,10 @@
 @charset "UTF-8";
 @media screen and (min-width: 576px) and (max-width: 768px) and (orientation: landscape) {
     section#login {
+        margin-top: 20px;
         width: 85vw;
         max-width: 650px;
-        height: 280px;
+        height: 290px;
     }
     section#login > div#imagem {
         float: left;
