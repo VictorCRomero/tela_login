@@ -34,7 +34,6 @@ section#login > div#imagem {
     display: block;
     background: #5f2c82 url('../imagens/metal.jpg') left bottom / cover no-repeat;
     height: 200px;
-    border-radius: 20px 20px 0 0;
 }
 section#login > div#formulario {
     display: block;
