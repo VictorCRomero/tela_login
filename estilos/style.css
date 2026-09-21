@@ -27,13 +27,13 @@ section#login {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.450);
     transform: translate(-50%, -50%);
     transition: width 0.3s, height 0.3s;
-    transition-timing-function: ease;
-    isolation: isolate;   
+    transition-timing-function: ease; 
 }
 section#login > div#imagem {
     display: block;
     background: #5f2c82 url('../imagens/metal.jpg') left bottom / cover no-repeat;
     height: 200px;
+    border-radius: 20px 20px 0 0;
 }
 section#login > div#formulario {
     display: block;
